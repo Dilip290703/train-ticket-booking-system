@@ -109,3 +109,6 @@ TravelEase/
 - 🔑 OAuth logins (Google/Facebook)  
 - 🤖 AI-powered travel recommendations  
 
+## 📜 License
+
+This project is for educational purposes only. Not intended for clinical use.
