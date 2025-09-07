@@ -1,0 +1,26 @@
+# Ignore libraries and dependencies
+PHPMailer/
+library/
+.vscode/
+*.log
+*.bak
+
+# Ignore system/OS files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary or cache files
+*.tmp
+*.swp
+*.swo
+
+# Ignore IDE specific files
+*.idea/
+*.vscode/
+nbproject/
+
+# Ignore environment files
+.env
+
+# Ignore backup files
+*~
