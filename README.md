@@ -102,8 +102,6 @@ TravelEase/
 ---
 
 
----
-
 ## 🔮 Future Enhancements
 - 📱 Mobile app (Android/iOS)  
 - 🌐 Multi-modal booking (buses, flights)  
