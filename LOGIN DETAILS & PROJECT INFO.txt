@@ -1,0 +1,22 @@
+
+**Database Name: otrsphp**
+
+**Recommended PHP Version 7**
+
+
+
+**Admin Login Details**
+
+Email   : admin@admin.com
+Password: Password@123
+
+**Passenger Login Details**
+
+Email   : demoaccount@mail.com
+Password: password
+
+Email   : chavanom2023@gmail.com
+Password: 123456
+
+OR sign up with your own details!!
+
