@@ -101,11 +101,6 @@ TravelEase/
 
 ---
 
-## 📜 Credentials
-Default login details are stored in:  
-```
-01 LOGIN DETAILS & PROJECT INFO.txt
-```
 
 ---
 
